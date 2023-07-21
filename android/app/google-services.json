@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "395330484040",
+    "project_id": "bigexpress",
+    "storage_bucket": "bigexpress.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395330484040:android:4c80ef39365e212137e57d",
+        "android_client_info": {
+          "package_name": "com.bigexpress.customer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395330484040-ba8aogd7p3734b3pkn48q62ktcnn4kgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCRQ395mqfS6TkNYdO9R8ad7O4ed2sU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395330484040-ba8aogd7p3734b3pkn48q62ktcnn4kgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:395330484040:android:2f9c180b204280c337e57d",
+        "android_client_info": {
+          "package_name": "com.bigexpress.driver"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "395330484040-ba8aogd7p3734b3pkn48q62ktcnn4kgg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAnCRQ395mqfS6TkNYdO9R8ad7O4ed2sU4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "395330484040-ba8aogd7p3734b3pkn48q62ktcnn4kgg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
